@@ -1,26 +1,30 @@
 # HR-Analytics-Project
 
-This repository provides tools and resources for analyzing HR data & Unlocking Insights from Data, enabling better decision-making and talent management.
+This repository provides tools and resources for analyzing HR metrics & Unlocking Insights from Data, enabling better decision-making and talent management.
 
-What you'll find:
+## What you get:
 
-Excel data: Comprehensive employee information for analysis.
-Python scripts: Perform data analysis tasks like classification, correlation, and clustering.
-Power BI dashboard: Interactive visualizations of key HR metrics.
-Project report: Summarizes findings, insights, and recommendations.
-Get started:
+- **Excel data**: Comprehensive employee information for analysis.
+- **Python scripts**: Perform classification, correlation, clustering & more.
+- **Power BI dashboard**: Interactive visualizations of key HR metrics.
+- **Project report**: Findings, insights, & recommendations.
 
-Explore the data: Open the Excel file to understand the information it contains.
-Analyze the data: Use the Python scripts for various data analysis tasks. You may need to install specific libraries.
-Visualize the results: Open the PBIX file to explore the interactive Power BI dashboard and see key HR metrics come to life.
-Gain insights: Read the project report for a comprehensive overview of the findings, insights, and recommendations.
-Requirements:
+## Get started:
 
-Python (libraries listed in Python files)
-Power BI Desktop
-How to use:
+- **Explore the data**: Open the Excel file to understand the information.
+- **Analyze the data**: Use Python scripts for analysis (libraries listed).
+- **Visualize results**: Open the PBIX file for interactive dashboards.
+- **Gain insights**: Read the report for findings & recommendations.
 
-Clone or download the repository.
-Navigate through the files.
-Follow the "Getting Started" steps to analyze data and view results.
-Unlock the potential of your HR data today!
+## Requirements:
+
+- Python
+-Power BI Desktop
+
+## How to use:
+
+- Clone/download the repository.
+- Navigate through the files.
+- Follow the "Get started" steps to analyze data & view results.
+
+## **Unlock the potential of your HR metrics today!**
